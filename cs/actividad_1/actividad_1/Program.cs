@@ -4,10 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Introduce el número inicial:");
+        Console.WriteLine("Programa");
+        Console.WriteLine("Introduce el número inicial: ");
         int inicio = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Introduce el número final:");
+        Console.WriteLine("Introduce el número final: ");
+        
         int fin = int.Parse(Console.ReadLine());
 
         for (int i = inicio; i >= fin; i--)
