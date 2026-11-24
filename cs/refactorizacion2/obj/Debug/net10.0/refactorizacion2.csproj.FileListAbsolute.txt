@@ -1,0 +1,15 @@
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/bin/Debug/net10.0/refactorizacion2
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/bin/Debug/net10.0/refactorizacion2.deps.json
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/bin/Debug/net10.0/refactorizacion2.runtimeconfig.json
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/bin/Debug/net10.0/refactorizacion2.dll
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/bin/Debug/net10.0/refactorizacion2.pdb
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.AssemblyInfoInputs.cache
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.AssemblyInfo.cs
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.csproj.CoreCompileInputs.cache
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.sourcelink.json
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.dll
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refint/refactorizacion2.dll
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.pdb
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/refactorizacion2.genruntimeconfig.cache
+/home/alumno/c3-entornos-2627-navarro-elbal-maria/cs/refactorizacion2/obj/Debug/net10.0/ref/refactorizacion2.dll

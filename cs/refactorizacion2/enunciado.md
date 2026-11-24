@@ -1,0 +1,1 @@
+Este programa pide las notas de dos evaluaciones, calcula la media de cada una y muestra si está aprobada, repitiendo exactamente la misma lógica dos veces.
